@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm clayEnkidu</h1>
-<h3 align="center">Gimme some peaches</h3>
+<h3 align="center">yo hori </h3>
 
 <p align="center"> <img src="https://i.postimg.cc/65j52FN0/images-4.jpg" alt="clayenkidu" /> </p>
 
